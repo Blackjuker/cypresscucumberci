@@ -2,3 +2,5 @@ node_modules
 cypress/screenshoots
 rapports
 cypress/cucumber-json
+git.bat
+
